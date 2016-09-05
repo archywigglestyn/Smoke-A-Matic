@@ -4,7 +4,7 @@ This controller uses an Arduino uno to control the temperature of a grill or smo
 Running the numbers through the PID library then outputing to a hobby servo.
 a 16x4 screen, 3 buttons and 1 switch are used to interface.
 
-Update, A second version using a pwm/pulsed as an output has been released.
+Update, A second version using pwm/pulsing as an output has been released.
 
 Check out my video for more details
 
