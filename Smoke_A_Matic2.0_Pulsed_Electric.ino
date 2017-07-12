@@ -206,7 +206,6 @@ pinMode(A2, INPUT);
   // clears the lcd
   lcd.clear();
   
-  //myservo.attach(13);
   
   ///////////////////////////////////////////////////////////////////////////////////////
   // adjustable values all in one place for convenience
